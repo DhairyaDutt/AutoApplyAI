@@ -1,0 +1,162 @@
+personal_information:
+  name: "Dhairya"
+  surname: "Dutt"
+  date_of_birth: "30/04/2002"
+  country: "United States of America"
+  city: "Rochester"
+  zip_code: "14623"
+  address: "Park point Drive"
+  phone_prefix: "+1"
+  phone: "5852690509"
+  email: "dd8053@g.rit.edu"
+  github: "https://github.com/DhairyaDutt"
+  linkedin: "https://www.linkedin.com/in/dhairya-dutt/"
+  Citizenship: "India"
+  
+
+education_details:
+  - education_level: "Master's Degree"
+    institution: "Rochester Institute of Technology"
+    field_of_study: "Information Technology and Analytics"
+    final_evaluation_grade: "4.0"
+    year_of_completion: "2025"
+    start_date: "2023"
+    additional_info:
+      exam:
+        Algorithms: "A"
+        Information Retrieval and Text Mining: "A"
+        Non Relational Databases: "A"
+        Operating Systems: "A-"
+        Visual Analytics: "A"
+
+  - education_level: "Bachelor's Degree"
+    institution: "Nirma Institute of Technology"
+    field_of_study: "Electonics and Communications"
+    final_evaluation_grade: "7.94"
+    year_of_completion: "2023"
+    start_date: "2019"
+    additional_info:
+      exam:
+        Data Structures: "A"
+        Linear Algebra: "A"
+        Database Systems: "A"
+        Operating Systems: "A-"
+        Web Development: "A"
+
+experience_details:
+  - position: "Software Engineer Intern"
+    company: "D360"
+    employment_period: "01/2023 - 05/23"
+    location: "New York, NY"
+    industry: "Technology"
+    key_responsibilities:
+      - responsibility: "Created a new app from scratch in 3 months to allow clients to efficiently search and filter from a pool of over 1 million diamonds"
+      - responsibility: "Worked on the firm’s website to keep it updated by adding a new map container and a new section to support announcements"
+    skills_acquired:
+      - "React"
+      - "Software Troubleshooting"
+
+  - position: "Software Engineer Intern"
+    company: "eInfochips"
+    employment_period: "06/2022 - 8/2022"
+    location: "Gujarat, India"
+    industry: "Technology"
+    key_responsibilities:
+      - responsibility: "Automated the email-sending functionality to clients, which reduced 25+ hours per month and manual repetitive work of the employees"
+      - responsibility: "Built a GUI for the email-sending feature, now used by over 200+ faculties"
+    skills_acquired:
+      - "Python"
+      - "GUI"
+      - "Automated testing"
+
+  - position: "Associate developer"
+    company: "TechTable "
+    employment_period: "03/2021 - 08/2021"
+    location: "IIT Madras, India"
+    industry: "Startups"
+    key_responsibilities:
+      - responsibility: "Made multiple front-end pages on a professional website for a client and satisfying the client’s need called “Teenr”"
+      - responsibility: "Contributed to the ”My team” section of the firm’s official website, consisting of 20+ team members using CSS styling"
+    skills_acquired:
+      - "Web development"
+      - "Javascript"
+projects:
+  - name: "Recipe Generator"
+    description: "Build a data structure called inverted index using Python and tokenization from Jamie Oliver’s cooking website, consisting of 2.2 million recipes"
+    # link: "#"
+  
+  - name: "Chicago Crime Project"
+    description: "Analysed the Chicago crime dataset with the perspective of a developer helping builders invest in a new apartment community"
+    # link: "#"
+  
+  - name: "Stock Market Prediction using LSTM(Long Short term Memory)"
+    description: "Compared various machine learning algorithms to predict the price based on Root Mean Square Error (RMSE)"
+    # link: "#"
+  
+  - name: "Employee Management System"
+    description: "Developed a management system using C++ that could maintain 50 employees data with proper hierarchy"
+    # link: "#"
+
+
+
+achievements:
+  - name: "Student Placement Coordinator"
+    description: " Nirma University, III Cell. Facilitated campus recruitment drives, coordinating with companies and streamlining the process for over 150 students"
+
+  - name: "Graduate Assistant"
+    description: "Closely working with the career services in reviewing resumes, do drop-ins hours"
+
+certifications:
+  #- "Certified Scrum Master"
+  #- "AWS Certified Solutions Architect"
+
+languages:
+  - language: "English"
+    proficiency: "Fluent"
+
+
+interests:
+  - "Software Engineering"
+  - "Machine Learning"
+  - "Cybersecurity"
+  - "Open Source Projects"
+
+availability:
+  notice_period: "2 weeks"
+
+salary_expectations:
+  salary_range_usd: "10000 - 200000"
+
+self_identification:
+  gender: "Male"
+  pronouns: "He/Him"
+  veteran: "No"
+  disability: "No"
+  ethnicity: "Asian"
+
+legal_authorization:
+  eu_work_authorization: "No"
+  us_work_authorization: "Yes"
+  requires_us_visa: "No"
+  requires_us_sponsorship: "Yes"
+  requires_eu_visa: "Yes"
+  legally_allowed_to_work_in_eu: "No"
+  legally_allowed_to_work_in_us: "Yes"
+  requires_eu_sponsorship: "Yes"
+  canada_work_authorization: "No"
+  requires_canada_visa: "Yes"
+  legally_allowed_to_work_in_canada: "No"
+  requires_canada_sponsorship: "Yes"
+  uk_work_authorization: "No"
+  requires_uk_visa: "Yes"
+  legally_allowed_to_work_in_uk: "No"
+  requires_uk_sponsorship: "Yes"
+
+
+work_preferences:
+  remote_work: "Yes"
+  in_person_work: "Yes"
+  open_to_relocation: "Yes"
+  willing_to_complete_assessments: "Yes"
+  willing_to_undergo_drug_tests: "Yes"
+  willing_to_undergo_background_checks: "Yes"
