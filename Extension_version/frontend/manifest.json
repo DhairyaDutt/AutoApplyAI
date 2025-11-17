@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "AutoApplyAI",
+  "version": "1.0",
+  "permissions": ["activeTab", "scripting", "storage"],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
+}
